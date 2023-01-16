@@ -1,1 +1,1 @@
-# ngo-challenge
+# travel-destination-challenge
